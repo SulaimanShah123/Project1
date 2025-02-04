@@ -1,2 +1,4 @@
 # Project1
-This is my first repo
+This is my first repository.
+<br>
+Author Sulaiman Shah
